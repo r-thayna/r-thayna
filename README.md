@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<img src="https://user-images.githubusercontent.com/112704191/204583534-49bd5535-166c-4748-ae8e-3e084c101f43.gif" width="100%" height="400px"/>
+</div>
 
 <!--
 **r-thayna/r-thayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
