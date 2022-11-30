@@ -3,11 +3,10 @@
 -->
 
 <h2 align="center">📜 &ensp; <i>Sobre</i></h2>
-<img align="right" src="./analysis.gif" width="370px" alt="girl studying">
-<table align="center">
+<img align="right" src="./girl-gif.gif" width="250px" alt="girl studying">
 
 <ul align="left">
-    <li> //</li>
+    <li> </li>
     <li> // </li>
     <li>// </li>
     <li>//</li>
